@@ -2,3 +2,5 @@
 
 2024-04-06T00:02:48+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/user-registration/includes/functions-ur-template.php on line 145
 
+2024-04-06T00:27:17+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/ProductSchema.php on line 680
+
