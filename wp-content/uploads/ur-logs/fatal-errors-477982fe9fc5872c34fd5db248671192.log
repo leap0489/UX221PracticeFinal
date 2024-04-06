@@ -8,3 +8,9 @@
 
 2024-04-06T00:50:06+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 4096 bytes) in /wordpress/wp-includes/rest-api/class-wp-rest-server.php on line 3
 
+2024-04-06T01:05:23+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-content/themes/astra/inc/customizer/configurations/builder/header/configs/header-builder.php on line 517
+
+2024-04-06T01:05:40+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-content/themes/astra/inc/customizer/configurations/builder/header/configs/header-builder.php on line 167
+
+2024-04-06T01:05:50+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/ProductSchema.php on line 680
+
