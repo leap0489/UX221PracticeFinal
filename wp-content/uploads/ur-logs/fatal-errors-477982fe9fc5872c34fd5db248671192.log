@@ -14,3 +14,5 @@
 
 2024-04-06T01:05:50+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/ProductSchema.php on line 680
 
+2024-04-06T01:19:04+00:00 CRITICAL Out of memory (allocated 62914560) (tried to allocate 4194304 bytes) in /wordpress/wp-content/themes/astra/inc/customizer/configurations/builder/footer/configs/above-footer.php on line 32
+
