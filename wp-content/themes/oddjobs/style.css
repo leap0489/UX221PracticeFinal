@@ -8,24 +8,39 @@ Template:       astra
 */
 
 
- {
-  font-family: "Merriweather", serif;
-  font-weight: 400;
-  font-style: normal;
+:root{
+	--primary-blue: #294272;
+	--background: white;
+	--hover-link-btn: #CCDDFF;
+	--text: #1A2D52;
+	--font-fam: "Inter", sans-serif;
+	
+}
+
+h1, h2, h3 {
+	color: var(--primary-blue);
+	background-color: var(--background);
 }
 
 p {
-  font-family: "Inter", sans-serif;
-  font-weight: 1000;
+  font-family: var("Inter", sans-serif;);
+  font-weight: 400;
   font-style: normal;
+	color: (--text);
+	background-color: var(--background);
 
 }
 
 
 .mainbutton {
 	padding: 16px;
-	background-color: black;
+	background-color: var(--primary-blue);
 	color: white;
 	margin:0px, 16px;
-	border-radius: 8px
+	border-radius: 8px;
 }
+
+.mainbutton:hover {
+	color: var(--hover-link-btn)
+}
+
