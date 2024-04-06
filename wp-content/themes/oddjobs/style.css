@@ -12,7 +12,7 @@ Template:       astra
 	--primary-blue: #294272;
 	--background: white;
 	--hover-link-btn: #CCDDFF;
-	--text: #1A2D52;
+	--text: #243F72;
 	--font-fam: "Inter", sans-serif;
 	
 }
@@ -23,10 +23,10 @@ h1, h2, h3 {
 }
 
 p {
-  font-family: var("Inter", sans-serif;);
-  font-weight: 400;
+  font-family: var(--font-fam);
+  font-weight: 500;
   font-style: normal;
-	color: (--text);
+	color: var(--text);
 	background-color: var(--background);
 
 }
