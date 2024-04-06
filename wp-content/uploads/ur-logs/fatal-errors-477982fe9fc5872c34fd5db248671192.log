@@ -6,3 +6,5 @@
 
 2024-04-06T00:40:28+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-content/themes/astra/inc/core/deprecated/deprecated-hooks.php on line 73
 
+2024-04-06T00:50:06+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 4096 bytes) in /wordpress/wp-includes/rest-api/class-wp-rest-server.php on line 3
+
