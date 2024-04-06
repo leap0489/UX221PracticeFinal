@@ -1,0 +1,4 @@
+2024-04-06T00:02:46+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-content/themes/astra/inc/core/deprecated/deprecated-functions.php on line 98
+
+2024-04-06T00:02:48+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/user-registration/includes/functions-ur-template.php on line 145
+
